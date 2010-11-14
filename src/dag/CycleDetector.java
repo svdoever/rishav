@@ -9,10 +9,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-
-
 public class CycleDetector
 {
+
 
     private final static Integer NOT_VISTITED = new Integer( 0 );
 
